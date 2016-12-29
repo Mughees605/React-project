@@ -8,7 +8,7 @@ var Main = React.createClass({
         return (
              <div>
                   <h1>
-                   Main
+                   This is not the main
                     </h1>
                     <Nav />
                     </div> 
